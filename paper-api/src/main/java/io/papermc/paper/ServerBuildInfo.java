@@ -15,7 +15,7 @@ import org.jspecify.annotations.NullMarked;
 @ApiStatus.NonExtendable
 public interface ServerBuildInfo {
     /**
-     * The brand id for Paper.
+     * The brand id for Paper. balls.
      */
     Key BRAND_PAPER_ID = Key.key("papermc", "paper");
 
