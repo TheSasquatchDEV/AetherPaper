@@ -13,6 +13,8 @@ import org.bukkit.craftbukkit.CraftServer;
 import org.bukkit.craftbukkit.Main;
 import org.jetbrains.annotations.NotNull;
 
+// Yes indeed I added this comment.
+
 public record ServerBuildInfoImpl(
     Key brandId,
     String brandName,
